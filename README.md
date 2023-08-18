@@ -3,13 +3,13 @@
 <br>
   <img src="https://github.com/weslleyrichardi/Projeto-Networking/blob/main/style/avatar.png" alt="" width="120">
 <br>
-  <a id= "a"href="https://www.instagram.com/weslley_richardi/?__coig_restricted=1" >Weslley Richard</a>
+  Weslley Richard
 <br>
 Projeto Networking
 </h1>
 
 <p align="center">Projeto de links para networking da Rocketseat</p>
-
+<p align="center"><a href="https://weslleyrichardi.github.io/Projeto-Networking/">Acesso do projeto aqui</a></p>
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
