@@ -1,9 +1,32 @@
-# Projeto Networking
-Curso de 200 horas sobre html e css **(incompleto)**. Professor [Gustavo Guanabara](https://github.com/gustavoguanabara)
-<img src="https://github.com/weslleyrichardi/html-css/blob/main/imagens/Personagem.png" align="left" width="120">
-* [Minha rede social do instagram](https://www.instagram.com/weslley_richardi/?__coig_restricted=1)
-* [Meu perfil do linkedin](https://www.linkedin.com/in/weslley-richard/)
-* [Site do Rocketseat](https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google&gclid=Cj0KCQjwrfymBhCTARIsADXTabkxur-HNaj9JHkcj3i-5Yb7ruL9uVFAHZp6D1FU4yiaJRDOv50iZFEaAlSuEALw_wcB)
-## Direitos de uso
 
-  Você tem todo o direito de usar esse material para seu próprio aprendizado. Professores também podem ter acesso a todo o conteúdo e usá-los com seus alunos. Porém todos o que usarem esse material - seja para qual for a finalidade - deverão manter a referência ao material original, criado e disponibilizado pelo Prof. Gustavo Guanabara. Este conteúdo não poderá ser utilizado em nenhuma hipótese para ser replicada - integral ou parcialmente - por autores/ editoras/ instituições de ensino para criar livros ou apostilas, com finalidades de obter ganho financeiro com ele.
+<h1 align="center">
+<br>
+  <img src="https://github.com/weslleyrichardi/Projeto-Networking/blob/main/style/avatar.png" alt="" width="120">
+<br>
+<br>
+Projeto Networking
+</h1>
+
+<p align="center">Projeto de links para networking da Rocketseat</p>
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
+
+## Características
+[//]: # (Add the features of your project here:)
+Este projeto apresenta uma forma simplificada de fazer networking e compartilhar redes sociais
+- 📌 **html** — Linguagem de marcação utilizada na construção de páginas na Web.
+- 📌 **css** — Mecanismo para adicionar estilos a uma página web.
+- 📌 **javascript** — Juntamente com HTML e CSS, o "JS" é uma das três principais tecnologias da World Wide Web.
+
+## Começando
+
+Basta fazer o download no GitHub e modificar as informações de acordo com suas necessidades
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
