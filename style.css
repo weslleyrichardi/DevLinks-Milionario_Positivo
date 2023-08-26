@@ -14,7 +14,7 @@
     --swith-bg-url: url(style/moon-stars.svg);
 }
 
-.Light {
+.light {
     --text-color: black;
     --bg-url: url(style/bg-mobile-light.jpg);
     --stroke-color: rgba(0, 0, 0, 0.50);
@@ -22,7 +22,6 @@
     --surface-color-hover: rgba(0, 0, 0, 0.02);
     --highlight-color: rgba(0, 0, 0, 0.20);
     --swith-bg-url: url(style/sun.svg);
-
 }
 
 body * {
